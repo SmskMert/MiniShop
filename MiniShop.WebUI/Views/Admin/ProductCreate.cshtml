@@ -1,0 +1,144 @@
+@using Newtonsoft.Json
+@{
+    ViewData["Title"] = "ProductCreate";
+    var file = ViewData["File"];
+    var uploadedImage = JsonConvert.SerializeObject(file);
+
+}
+@model ProductModel
+<h1 class="display-5 text-primary">Create Product</h1>
+<hr />
+<form asp-controller="Admin" asp-action="ProductCreate" method="post" enctype="multipart/form-data" >
+    <div class="row">
+        <div class="col-md-8" >
+            <div class="form-group row mb-2">
+                <div class="col-md-2 d-flex align-items-center">
+                    <label class="form-check-label" asp-for="Name"></label>
+                </div>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" asp-for="Name" />
+                </div>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group row mb-2">
+                <div class="col-md-2 d-flex align-items-center">
+                    <label class="form-check-label" asp-for="Description"></label>
+                </div>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" asp-for="Description" />
+                </div>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group row mb-2">
+                <div class="col-md-2 d-flex align-items-center">
+                    <label class="form-check-label" asp-for="Price"></label>
+                </div>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" asp-for="Price" />
+                </div>
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group row mb-2">
+                <div class="col-md-2 d-flex align-items-center">
+                   
+                    <label class="form-check-label">Image</label>
+                </div>
+                <div class="col-md-10">
+                     <img id="uploadedImage"  src=""/>
+                    <input  type="file" name="file" id="formFile"  
+                     accept="image/" 
+                    />
+                </div>
+                    <span class="text-danger">@ViewBag.ErrorImageMessage</span>
+
+            </div>
+           
+            
+            <div class="form-group mb-2">
+                <div class="col-md-12 row">
+                    <button type="submit" class="btn btn-sm btn-success col-md-3 offset-9">
+                    Save</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <h5 class="display-6 text-primary">Categories</h5>
+            @foreach (var category in (List<Category>)ViewBag.Categories)
+            {
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" class='form-check-input'
+                    value="@category.CategoryId" name="categoryIds" 
+                   
+                   
+                   
+                    @{string checkedOrNot="";}
+
+                    @if(ViewData["SelectedCategories"]!=null)
+                    {
+                        @foreach (var selectedCategory in ((int[])ViewData["SelectedCategories"]))
+                        {
+                            @if (checkedOrNot != "" )
+                            {
+                                break;
+                                }
+                            checkedOrNot = selectedCategory == category.CategoryId ? "checked" : "";
+                        }
+                    }
+                    @checkedOrNot
+                    />
+                    <label class="form-check-label">@category.Name</label>
+                </div>
+            }
+            <span class="text-danger">@ViewBag.ErrorCategoryMessage</span>
+            <hr />
+            <div class="custom-control custom-checkbox">
+                <input type="checkbox" class="form-check-input" asp-for="IsApproved" />
+                <label class="custom-control-label">Is Approved ?</label>
+            </div>
+            <div class="custom-control custom-checkbox">
+                <input type="checkbox" class="form-check-input" asp-for="IsHome" />
+                <label class="custom-control-label">Is Home ?</label>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+<script>
+    const fileInput = document.getElementById('formFile');
+    const imageDisplay = document.getElementById('uploadedImage');
+
+    function addValueToInputFromLocal(v){
+            if (localStorage.getItem(v)==null) {
+                return "";
+            }else{
+                const dataImage = localStorage.getItem("imgData");
+                imageDisplay.src = "data:image/png;base64," + dataImage;
+            }
+            console.log("addValueToInputFromLocal function has been triggered")
+    }
+
+    function getBase64Image(img) {
+  const canvas = document.createElement("canvas");
+  canvas.width = img.width;
+  canvas.height = img.height;
+  const ctx = canvas.getContext("2d");
+ ctx.drawImage(img, 0, 0,canvas.width,canvas.height);
+  const dataURL = canvas.toDataURL("image/png");
+ return dataURL.replace(/^data:image\/(png|jpg);base64,/, "");
+        };
+
+        
+    fileInput.onchange = () => {
+        const selectedFile = fileInput.files[0];
+        const imageUrl =window.URL.createObjectURL(selectedFile);
+        imageDisplay.setAttribute("src", imageUrl);
+        imageDisplay.addEventListener("load", function () {
+        imgData = getBase64Image(imageDisplay);
+        localStorage.setItem("imgData", imgData);
+        });
+        }
+
+window.onload = addValueToInputFromLocal("imgData");
+</script>

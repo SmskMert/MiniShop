@@ -1,0 +1,19 @@
+@model List<Category>
+
+<div class="list-group">
+  <a asp-controller="MiniShop" asp-action="List" asp-route-category=""
+    class='list-group-item list-group-item-action @(ViewBag.SelectedCategory==null ? "active" : "")'>Show All
+    Products</a>
+  @foreach (var category in Model)
+  {
+    <a asp-controller="MiniShop" asp-action="List" asp-route-category="@category.Url"
+    class='list-group-item list-group-item-action @(ViewBag.SelectedCategory==category.Url ? "active" : "")'>@category.Name</a>
+  }
+  <div class="input-group m-3"></div>
+  <form action="/search">
+    <input name="q" type="search" placeholder="Enter the Key Word" class="form-control" />
+    <div class="d-grid">
+      <button type="submit" class="btn btn-sm btn-primary mt-1">Search</button>
+    </div>
+  </form>
+</div>

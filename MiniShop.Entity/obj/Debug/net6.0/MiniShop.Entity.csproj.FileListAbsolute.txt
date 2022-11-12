@@ -1,0 +1,48 @@
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\refint\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\ref\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\refint\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.Entity\obj\Debug\net6.0\ref\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\refint\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.Entity\obj\Debug\net6.0\ref\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\refint\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.Entity\obj\Debug\net6.0\ref\MiniShop.Entity.dll

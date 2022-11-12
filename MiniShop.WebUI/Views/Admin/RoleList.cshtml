@@ -1,0 +1,71 @@
+@{
+    ViewData["Title"] = "RoleList";
+}
+@model List<IdentityRole>
+
+@section DataTableScripts{
+    @await Html.PartialAsync("_DataTableScriptPartial")
+}
+
+@section DataTableStyle{
+    @await Html.PartialAsync("_DataTableCssPartial")
+}
+
+<div class="d-flex align-items-center justify-content-between">
+  <h1 class="display-5 text-primary">Role List</h1>
+  <div>
+    <a class="btn btn-primary" asp-controller="Admin" asp-action="RoleCreate" id="roleCreate">Create Role</a>
+  </div>
+</div>
+<hr />
+
+<table id ="table_id" class="table table-striped display">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    @foreach (var role in Model)
+    {
+      <tr>
+        <td scope="row">@role.Id</td>
+        <td>@role.Name</td>
+        <td>
+          <a asp-controller="Admin" asp-action="RoleEdit" asp-route-id=@role.Id
+          class="btn btn-sm btn-warning">Edit</a>
+
+          <!-- Button trigger modal -->
+        <button class="btn btn-sm btn-danger" data-bs-toggle="modal"
+          data-bs-target="#staticBackdrop_@role.Id">Delete</button>
+
+          <!-- Modal -->
+        <div class="modal fade" id="staticBackdrop_@role.Id" data-bs-backdrop="static"
+          data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">Warning</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <strong>@role.Id @role.Name</strong> will be deleted.
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                  <a class="btn btn-danger" asp-controller="Admin" asp-action="DeleteRole"
+                  asp-route-id=@role.Id>Confirm</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </td>
+      </tr>
+
+    }
+  </tbody>
+</table>

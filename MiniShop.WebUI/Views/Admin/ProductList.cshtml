@@ -1,0 +1,97 @@
+@{
+  ViewData["Title"] = "Product List";
+}
+@model List<Product>
+
+<div class="d-flex align-items-center justify-content-between">
+  <h1 class="display-5 text-primary">Product List</h1>
+  <div>
+    <a class="btn btn-warning" asp-controller="Admin" asp-action="DeletedProductList">Deleted Products</a>
+
+    <a class="btn btn-primary" asp-controller="Admin" asp-action="ProductCreate" id="productCreate">Create Product</a>
+  </div>
+</div>
+<hr />
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Img</th>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Price</th>
+      <th scope="col">IsHome</th>
+      <th scope="col">IsAproved</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var product in Model)
+    {
+      <tr>
+        <th><img src="~/images/@product.ImageUrl" /></th>
+        <td scope="row">@product.ProductId</td>
+        <td>@product.Name</td>
+        <td>@product.Description</td>
+        <td>@product.Price</td>
+        <td>
+          <form id="isHome_@product.ProductId" asp-controller="Admin" asp-action="UpdateIsHome"
+          asp-route-id=@product.ProductId method="post">
+            <div class="form-check">
+              <input type="checkbox" class="form-check-input" name="isHome" id="isHome_@product.ProductId"
+              onchange="document.getElementById('isHome_@product.ProductId').submit()" @(product.IsHome ? "checked" :
+              "") />
+            </div>
+          </form>
+        </td>
+        <td>
+          <form id="isApproved_@product.ProductId" asp-controller="Admin" asp-action="UpdateIsApproved"
+          asp-route-id=@product.ProductId method="post">
+            <input type="checkbox" class="form-check-input" name="isApproved" id="isApproved_@product.ProductId"
+            onchange="document.getElementById('isApproved_@product.ProductId').submit()" @(product.IsApproved ?
+            "checked" : "") />
+          </form>
+        </td>
+        <td>
+          <a asp-controller="Admin" asp-action="ProductDetailsEdit" asp-route-id=@product.ProductId
+          class="btn btn-sm btn-warning">Details/Edit</a>
+
+          <!-- Button trigger modal -->
+        <button class="btn btn-sm btn-danger" data-bs-toggle="modal"
+          data-bs-target="#staticBackdrop_@product.ProductId">Delete</button>
+
+          <!-- Modal -->
+        <div class="modal fade" id="staticBackdrop_@product.ProductId" data-bs-backdrop="static"
+          data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">Warning</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <strong>@product.ProductId @product.Name</strong> will be deleted.
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                  <a class="btn btn-danger" asp-controller="Admin" asp-action="DeleteProduct"
+                  asp-route-id=@product.ProductId>Confirm</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </td>
+      </tr>
+
+    }
+  </tbody>
+</table>
+
+<script>
+  const productCreateButton = document.getElementById("productCreate");
+  productCreateButton.onclick = () => {
+localStorage.removeItem("imgData");
+  }
+</script>

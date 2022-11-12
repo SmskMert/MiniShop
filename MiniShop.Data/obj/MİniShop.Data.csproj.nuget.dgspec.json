@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MİniShop.Data\\MİniShop.Data.csproj": {}
+  },
+  "projects": {
+    "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MiniShop.Entity\\MiniShop.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MiniShop.Entity\\MiniShop.Entity.csproj",
+        "projectName": "MiniShop.Entity",
+        "projectPath": "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MiniShop.Entity\\MiniShop.Entity.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MiniShop.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MİniShop.Data\\MİniShop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MİniShop.Data\\MİniShop.Data.csproj",
+        "projectName": "MİniShop.Data",
+        "projectPath": "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MİniShop.Data\\MİniShop.Data.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MİniShop.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MiniShop.Entity\\MiniShop.Entity.csproj": {
+                "projectPath": "d:\\05.Software Development\\04.BAU-BRIGHT\\00.C# Denemeler\\02.MiniShop-AraTatil\\MiniShop.Entity\\MiniShop.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

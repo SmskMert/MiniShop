@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj": {}
+  },
+  "projects": {
+    "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj",
+        "projectName": "MiniShop.Business",
+        "projectPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj": {
+                "projectPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj"
+              },
+              "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj": {
+                "projectPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj",
+        "projectName": "MiniShop.Data",
+        "projectPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj": {
+                "projectPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
+        "projectName": "MiniShop.Entity",
+        "projectPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

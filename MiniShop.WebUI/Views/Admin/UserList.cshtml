@@ -1,0 +1,79 @@
+@{
+    ViewData["Title"] = "UserList";
+}
+@model List<User>
+
+@section DataTableScripts{
+    @await Html.PartialAsync("_DataTableScriptPartial")
+}
+
+@section DataTableStyle{
+    @await Html.PartialAsync("_DataTableCssPartial")
+}
+
+<div class="d-flex align-items-center justify-content-between">
+  <h1 class="display-5 text-primary">User List</h1>
+  <div>
+    <a class="btn btn-primary" asp-controller="Admin" asp-action="UserCreate" id="roleCreate">Create User</a>
+  </div>
+</div>
+<hr />
+
+<table id ="table_id" class="table table-striped display">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">First Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">User Name</th>
+      <th scope="col">Email</th>
+      <th scope="col">Email Confirmed</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    @foreach (var user in Model)
+    {
+      <tr>
+        <td scope="row">@user.Id</td>
+        <td>@user.FirstName</td>
+        <td>@user.LastName</td>
+        <td>@user.UserName</td>
+        <td>@user.Email</td>
+        <td>@user.EmailConfirmed</td>
+        <td>
+          <a asp-controller="Admin" asp-action="UserEdit" asp-route-id=@user.Id
+          class="btn btn-sm btn-warning">Edit</a>
+
+          <!-- Button trigger modal -->
+        <button class="btn btn-sm btn-danger" data-bs-toggle="modal"
+          data-bs-target="#staticBackdrop_@user.Id">Delete</button>
+
+          <!-- Modal -->
+        <div class="modal fade" id="staticBackdrop_@user.Id" data-bs-backdrop="static"
+          data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">Warning</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <strong>@user.Id @user.FirstName</strong> will be deleted.
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                  <a class="btn btn-danger" asp-controller="Admin" asp-action="DeleteUser"
+                  asp-route-id=@user.Id>Confirm</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </td>
+      </tr>
+
+    }
+  </tbody>
+</table>

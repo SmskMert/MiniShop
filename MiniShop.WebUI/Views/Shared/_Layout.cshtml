@@ -1,0 +1,57 @@
+﻿@using MiniShop.Core
+@using Newtonsoft.Json
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MiniShop.WebUI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MiniShop.WebUI.styles.css" asp-append-version="true" />
+        @await RenderSectionAsync("DataTableStyle", required: false)
+
+</head>
+
+<body>
+    <header>
+        <partial name="_Navbar" />
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @if (TempData["Message"]!=null)
+            {
+                AlertMessage message = JsonConvert.DeserializeObject<AlertMessage>(TempData["Message"] as string);
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="alert alert-@message.AlertType alert-dismissible fade show" role="alert">
+                                <div>@message.Title</div>
+                                <div>@message.Message</div>
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                        </div>
+                    </div>
+            }
+                    @RenderBody()
+                </div>
+                <div class="col-2">
+                </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - MiniShop.WebUI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @await RenderSectionAsync("DataTableScripts", required: false)
+</body>
+
+</html>

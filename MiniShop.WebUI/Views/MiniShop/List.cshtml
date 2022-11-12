@@ -1,0 +1,34 @@
+@{
+    ViewData["Title"] = "Products";
+}
+@model ProductViewModel
+<div class="container">
+    <div class="row">
+
+        <div class="col-3">
+            @await Component.InvokeAsync("Categories")
+        </div>
+
+        <div class="col-9">
+            @if (Model.Products.Count() == 0)
+            {
+                <partial name="_NoProduct" />
+            }
+            else
+            {
+                <div class="row">
+                    @foreach (var product in Model.Products)
+                    {
+                        <partial name="_Product" model="product" />
+                    }
+                </div>
+            }
+            <div class="d-flex justify-content-center">
+                @if (Model.PageInfo.TotalPages()!=0)
+                {
+                    <partial name="_Pagination" model="Model" />
+                }
+            </div>
+        </div>
+    </div>
+</div>

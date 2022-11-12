@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MiniShop.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MiniShop.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\11.png",
+      "PackagePath": "staticwebassets\\images\\11.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\13.png",
+      "PackagePath": "staticwebassets\\images\\13.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\dell-ekran-14f6b392-9e18-4631-946b-01513d06f2f4.png",
+      "PackagePath": "staticwebassets\\images\\dell-ekran-14f6b392-9e18-4631-946b-01513d06f2f4.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\dell-ekran-6-413c6e66-b8ed-4b54-abaf-6c2600e0ff5a.png",
+      "PackagePath": "staticwebassets\\images\\dell-ekran-6-413c6e66-b8ed-4b54-abaf-6c2600e0ff5a.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\dell-ekran-6d9eb657-c6b3-4b48-aeac-455835b5374f.png",
+      "PackagePath": "staticwebassets\\images\\dell-ekran-6d9eb657-c6b3-4b48-aeac-455835b5374f.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\dell-ekran-6fd09de7-58ab-44b3-a604-3ad325c0d7b1.png",
+      "PackagePath": "staticwebassets\\images\\dell-ekran-6fd09de7-58ab-44b3-a604-3ad325c0d7b1.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\dell-ekran-8e6e9714-a55c-443f-ae9f-2fa17b44643c.png",
+      "PackagePath": "staticwebassets\\images\\dell-ekran-8e6e9714-a55c-443f-ae9f-2fa17b44643c.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\dell-ekran-a09cdf09-c3cb-4894-9bf2-c85ab2dd9317.png",
+      "PackagePath": "staticwebassets\\images\\dell-ekran-a09cdf09-c3cb-4894-9bf2-c85ab2dd9317.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-13-245e8b40-1b51-4b25-b43e-7f312f762803.png",
+      "PackagePath": "staticwebassets\\images\\iphone-13-245e8b40-1b51-4b25-b43e-7f312f762803.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-0171b202-270a-4cd8-bd11-ffcd4c80678b.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-0171b202-270a-4cd8-bd11-ffcd4c80678b.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-2dfa9200-c338-4b9e-b442-e5068d1e60b7.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-2dfa9200-c338-4b9e-b442-e5068d1e60b7.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-42d7638f-65f1-4c85-959d-c48a81422e97.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-42d7638f-65f1-4c85-959d-c48a81422e97.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-80b2f7fa-9d81-4a55-bcde-3e6ee5d8d3c4.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-80b2f7fa-9d81-4a55-bcde-3e6ee5d8d3c4.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-86879257-92fc-4127-8692-a03638d1281e.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-86879257-92fc-4127-8692-a03638d1281e.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-87ebe1f0-4dd7-477e-b0ba-5269f6d041a3.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-87ebe1f0-4dd7-477e-b0ba-5269f6d041a3.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-9fa2f6be-f9cf-403f-b415-41e1d3e6b196.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-9fa2f6be-f9cf-403f-b415-41e1d3e6b196.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\images\\iphone-65-e06e908a-7e23-4013-ac19-fccf8fae2f2c.png",
+      "PackagePath": "staticwebassets\\images\\iphone-65-e06e908a-7e23-4013-ac19-fccf8fae2f2c.png"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\05.Software Development\\04.BAU-BRIGHT\\02.ClonedRepo\\MiniShop\\MiniShop.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MiniShop.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MiniShop.WebUI.props",
+      "PackagePath": "build\\MiniShop.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MiniShop.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\MiniShop.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MiniShop.WebUI.props",
+      "PackagePath": "buildTransitive\\MiniShop.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

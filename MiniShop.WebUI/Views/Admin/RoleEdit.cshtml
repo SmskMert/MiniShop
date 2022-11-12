@@ -1,0 +1,90 @@
+@{
+    ViewData["Title"] = "RoleEdit";
+}
+@model RoleDetails
+
+<h1 class="display-6 text-primary">Edit @Model.Role.Name Role</h1>
+<hr />
+
+<form asp-controller="Admin" asp-action="RoleEdit" method="post">
+    <input type="hidden" name="RoleId" value=@Model.Role.Id />
+    <input type="hidden" name="RoleName" value=@Model.Role.Name />
+
+    <div class="row">
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="col-md-6">
+            <h6 class="text-success p-2">Add to @Model.Role.Name</h6>
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="bg-dark text-white">
+                        <th scope="col">Name</th>
+                        <th scope="col">Select</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.NonMembers.Count > 0)
+                    {
+                        @foreach (var user in Model.NonMembers)
+                        {
+                            <tr>
+                                <td>@user.UserName</td>
+                                <td>
+                                    <input class="form-check-input" type="checkbox" value=@user.Id name="IdsToAdd" />
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <td colspan="2">No User !</td>
+
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+
+        <div class="col-md-6">
+          
+            <h6 class="text-success p-2">Remove @Model.Role.Name</h6>
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr class="bg-dark text-white">
+                        <th scope="col">Name</th>
+                        <th scope="col">Select</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Members.Count > 0)
+                    {
+                        @foreach (var user in Model.Members)
+                        {
+                            <tr>
+                                <td>@user.UserName</td>
+                                <td>
+                                    <input class="form-check-input" type="checkbox" value=@user.Id name="IdsToRemove" />
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <td colspan="2"><b>No User !</b></td>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 offset-4">
+            <button type="submit" class="btn btn-primary">Save Changes</button>
+        </div>
+        <div class="col-md-6">
+            <a asp-controller="Admin" asp-action="RoleList" class="btn btn-warning">Go To Role List</a>
+        </div>
+    </div>
+</form>

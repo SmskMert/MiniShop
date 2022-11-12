@@ -1,0 +1,269 @@
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\appsettings.Development.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\appsettings.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.staticwebassets.runtime.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.exe
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.runtimeconfig.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Humanizer.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\bundle\MiniShop.WebUI.styles.css
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\MiniShop.WebUI.bundle.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CopyComplete
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\refint\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.genruntimeconfig.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\ref\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\appsettings.Development.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\appsettings.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.staticwebassets.runtime.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.exe
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.runtimeconfig.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Humanizer.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\bundle\MiniShop.WebUI.styles.css
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\MiniShop.WebUI.bundle.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CopyComplete
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\refint\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.genruntimeconfig.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\obj\Debug\net6.0\ref\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Core.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\00.MiniShop\02.MiniShop-AraTatil\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Core.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\appsettings.Development.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\appsettings.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.staticwebassets.runtime.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.exe
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.runtimeconfig.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Humanizer.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Core.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Core.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\bundle\MiniShop.WebUI.styles.css
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\MiniShop.WebUI.bundle.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CopyComplete
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\refint\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.genruntimeconfig.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\obj\Debug\net6.0\ref\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MertSimsek_Odevler\00.Eski Ödevler\Week09_MiniShopTekrar\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\appsettings.Development.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\appsettings.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.staticwebassets.runtime.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.exe
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.runtimeconfig.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Humanizer.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Core.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Business.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Core.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Data.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\bin\Debug\net6.0\MiniShop.Entity.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.RazorAssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.MiniShop.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.build.MiniShop.WebUI.props
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiniShop.WebUI.props
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiniShop.WebUI.props
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\bundle\MiniShop.WebUI.styles.css
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\MiniShop.WebUI.bundle.scp.css
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.csproj.CopyComplete
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\refint\MiniShop.WebUI.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\MiniShop.WebUI.genruntimeconfig.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\MiniShop\MiniShop.WebUI\obj\Debug\net6.0\ref\MiniShop.WebUI.dll

@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Details";
+}
+@model ProductDetailModel
+
+<div class="card">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="~/images/@Model.Product.ImageUrl" alt="" />
+            </div>
+            <div class="col-10">
+                    <h1 class="card-title ">@Model.Product.Name</h1>
+
+                @foreach (var category in Model.Categories)
+                {
+                    <a href="#" class="btn btn-link p-0 mb-2">@category.Name</a>
+                }
+                <p class="card-text">@Model.Product.Description</p>
+                <p class="card-text">@Model.Product.Price</p>
+                <button type="button" class="btn btn-primary btn-sm">Add To Card</button>
+            </div>
+        </div>
+    </div>
+</div>

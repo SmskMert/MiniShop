@@ -1,0 +1,5 @@
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MİniShop.Data\obj\Debug\net6.0\MİniShop.Data.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MİniShop.Data\obj\Debug\net6.0\MİniShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MİniShop.Data\obj\Debug\net6.0\MİniShop.Data.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MİniShop.Data\obj\Debug\net6.0\MİniShop.Data.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\02.MiniShop-AraTatil\MİniShop.Data\obj\Debug\net6.0\MİniShop.Data.csproj.CoreCompileInputs.cache
